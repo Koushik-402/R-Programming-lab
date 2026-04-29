@@ -1,0 +1,402 @@
+////////EXP-1////////
+1.# Question 1 Output
+[1] 202
+[1] "Rahul"
+[1] 9.1
+[1] TRUE
+
+1.# Question 2 Output
+[1] 7002
+[1] 55000.5
+[1] "HR"
+[1] FALSE
+
+1.# Question 3 Output
+[1] "Mobile"
+[1] 25000
+[1] 12
+[1] TRUE
+
+1.# Question 4 Output
+[1] "Hyderabad"
+[1] 29.4
+[1] TRUE
+[1] 8.6
+
+1.# Question 5 Output
+[1] "Physics"
+[1] 100
+[1] 91
+[1] TRUE
+
+1.# Question 6 Output
+[1] 987654321
+[1] "Priya"
+[1] 80000.75
+[1] TRUE
+
+1.# Question 7 Output
+[1] "Avatar"
+[1] 9.2
+[1] 4500
+[1] TRUE
+
+1.# Question 8 Output
+[1] 500
+[1] "City Center"
+[1] 35.4
+[1] TRUE
+
+//////////////EXP-2///////////////
+# Experiment 2 - Question 1 Output
+[1] "Eligible for Loan"
+
+# Experiment 2 - Question 2 Output
+[1] "Not Eligible for Exam"
+
+# Experiment 2 - Question 3 Output
+[1] "Discount Applied"
+
+# Experiment 2 - Question 4 Output
+[1] "High Usage"
+
+# Experiment 2 - Question 5 Output
+[1] "Bonus Eligible"
+
+# Experiment 2 - Question 6 Output
+[1] "Valid Password"
+
+# Experiment 2 - Question 7 Output
+[1] "Extreme Temperature Warning"
+
+# Experiment 2 - Question 8 Output
+[1] "A"
+
+# Experiment 2 - Question 9 Output
+[1] "Credit Card Approved"
+
+# Experiment 2 - Question 10 Output
+[1] "Medium Risk"
+
+# Experiment 2 - Question 11 Output
+[1] "Long Green Signal"
+
+# Experiment 2 - Question 12 Output
+[1] "Eligible for Appraisal"
+
+# Experiment 2 - Question 13 Output
+[1] "Exam Disqualified"
+
+# Experiment 2 - Question 14 Output
+[1] "Surge Pricing Applied"
+
+# Experiment 2 - Question 15 Output
+[1] "Machine Shutdown"
+
+# Experiment 2 - Question 16 Output
+[1] "Admission Rejected"
+
+/////////////EXP-3////////////////
+# Experiment 3 - Question 1 Output
+[1] 2700
+
+# Experiment 3 - Question 2 Output
+[1] "Fail"
+
+# Experiment 3 - Question 3 Output
+[1] 40500
+
+# Experiment 3 - Question 4 Output
+[1] 440
+
+# Experiment 3 - Question 5 Output
+[1] 4160
+
+# Experiment 3 - Question 6 Output
+[1] 77
+
+# Experiment 3 - Question 7 Output
+[1] "Fail"
+
+# Experiment 3 - Question 8 Output
+[1] "Eligible to Vote"
+
+# Experiment 3 - Question 9 Output
+[1] 7877.46
+
+# Experiment 3 - Question 10 Output
+[1] 11550
+
+# Experiment 3 - Question 11 Output
+[1] 4950
+
+# Experiment 3 - Question 12 Output
+[1] "Distinction"
+
+# Experiment 3 - Question 13 Output
+[1] 1815
+
+# Experiment 3 - Question 14 Output
+[1] 9360
+
+# Experiment 3 - Question 15 Output
+[1] 57200
+
+# Experiment 3 - Question 16 Output
+[1] "Critical"
+
+/////////////EXP-4////////////////
+# Experiment 4 - Question 1 Output
+  RollNo   Name Dept Marks
+1    201  Rahul  CSE    88
+2    202  Priya  ECE    91
+3    203  Kiran   IT    79
+4    204 Anjali  CSE    85
+
+# Experiment 4 - Question 2 Output
+  EmpID  Name    Dept Salary
+1    11  Aman      HR  40000
+2    12 Sneha      IT  55000
+3    13  Ravi Finance  60000
+4    14  Neha      IT  58000
+
+# Experiment 4 - Question 3 Output
+  PatientID     Name Age  Cost
+1       301   Suresh  50 18000
+2       302 Lakshmi  40 22000
+3       303    Arjun  45 20000
+
+# Experiment 4 - Question 4 Output
+  ProductID ProductName Quantity
+1         1         Pen      100
+2         2        Book       60
+3         3      Bottle       40
+4         4         Bag       30
+
+/////////////EXP-5///////////////
+# Experiment 5 - Question 1 Output
+[1] "RAHUL" "PRIYA" "KIRAN"
+[1] 5 5 5
+
+# Experiment 5 - Question 2 Output
+[1] "rahul" "priya" "kiran"
+
+# Experiment 5 - Question 3 Output
+[1] "R Programming" "Data Science" "AI"
+
+# Experiment 5 - Question 4 Output
+[1] TRUE TRUE FALSE
+
+# Experiment 5 - Question 5 Output
+[1] "issue in file, issue in system, issue occurred"
+
+# Experiment 5 - Question 6 Output
+[1] "Strong Password"
+
+# Experiment 5 - Question 7 Output
+[1] 6
+
+# Experiment 5 - Question 8 Output
+[1] "csv" "pdf" "png"
+
+# Experiment 5 - Question 9 Output
+[1] "Gay" "Kar" "Ani"
+
+# Experiment 5 - Question 10 Output
+[1] "Bala" "Ravi"
+
+/////////////EXP-6/////////////////
+# Experiment 6 - Question 1 Output
+[1] 395
+[1] 79
+[1] 91
+
+# Experiment 6 - Question 2 Output
+[1] 28
+[1] 33
+
+# Experiment 6 - Question 3 Output
+$ID
+[1] 205
+
+$Name
+[1] "Arjun"
+
+$Salary
+[1] 55000
+
+$Department
+[1] "Finance"
+
+[1] "Arjun"
+[1] 55000
+
+# Experiment 6 - Question 4 Output
+$PatientID
+[1] 305
+
+$Name
+[1] "Meena"
+
+$Age
+[1] 50
+
+$TestResults
+[1] 110 135 128
+
+[1] 110 135 128
+
+# Experiment 6 - Question 5 Output
+  RollNo  Name Dept Marks
+1     11 Rahul  CSE    78
+2     12 Sneha  ECE    85
+3     13 Kiran   IT    92
+
+# Experiment 6 - Question 6 Output
+[1] 158000
+
+# Experiment 6 - Question 7 Output
+[1]  999 1499  299
+
+$CustomerID
+[1] 401
+
+$Name
+[1] "Priya"
+
+$City
+[1] "Hyderabad"
+
+      Item Price
+1    Mouse   999
+2 Keyboard  1499
+3      USB   299
+
+# Experiment 6 - Question 8 Output
+$Name
+[1] "Vijay"
+
+$RollNo
+[1] 121
+
+$Marks
+[1] 82 76 89
+
+  RollNo Total
+1    111   250
+2    112   240
+3    113   270
+
+# Experiment 6 - Question 9 Output
+[1] 8000 8500 8200
+
+$AccountNo
+[1] 56789
+
+$Name
+[1] "Lakshmi"
+
+   Date Amount
+1 10-01  -1000
+2 11-01   2000
+3 12-01   -500
+
+# Experiment 6 - Question 10 Output
+$Name
+[1] "Suresh"
+
+$Age
+[1] 22
+
+$Scores
+[1] 78 84 91
+
+  Subject Marks
+1    Math    78
+2 Science    84
+3 English    91
+
+////////////EXP-7/////////////
+# Experiment 7 - Question 1 Output
+
+# head(sales)
+        Date Product    Category Quantity Price
+1 2026-02-01  Tablet Electronics        4 30000
+2 2026-02-01   Shoes     Fashion        8  2500
+3 2026-02-02  Laptop Electronics        2 55000
+4 2026-02-02   Watch Accessories        6  5000
+5 2026-02-03   Shoes     Fashion        5  2500
+6 2026-02-03  Tablet Electronics        3 30000
+
+# total_sales_product
+  Product TotalSales
+1  Laptop     110000
+2   Shoes      32500
+3  Tablet     210000
+4   Watch      30000
+
+# top_product
+  Product TotalSales
+3  Tablet     210000
+
+# quantity_per_category
+     Category Quantity
+1 Accessories        6
+2 Electronics        9
+3     Fashion       13
+
+# high_sales
+  Product TotalSales
+1  Laptop     110000
+2   Shoes      32500
+3  Tablet     210000
+4   Watch      30000
+
+////////////EXP-9///////////////////
+# Experiment 9 - Outputs
+
+# Question 1 Output
+Mean:
+Maths   84.8
+Science 84.8
+English 86.4
+
+Median:
+Maths   84.5
+Science 84.5
+English 87.5
+
+Top Student:
+Suresh 95 91 94 280
+
+# Question 2 Output
+Product with max average sales:
+Bag
+
+# Question 3 Output
+Mean Age:
+48.8
+
+Median Age:
+49
+
+Older Patients:
+Meena, Arjun, Priya, Suresh
+
+# Question 4 Output
+Department-wise salary stats displayed
+High earners:
+Kiran, Sneha, Suresh
+
+# Question 5 Output
+Mean Rating:
+4.2
+
+Median Rating:
+4
+
+Mode Rating:
+5
+
+Top Rated Products:
+Phone, Bag, Speaker, Charger
